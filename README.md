@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔭 I’m currently working as Software Test Engineer <br>
 🌱 I’m currently learning playwright and Robot Framework<br>
 👯 I’m looking to collaborate on developing and testing automation frameworks<br>
-📫 How to reach me: [Website](https://harshvalecha.vercel.app/) , [Linkedin](https://linkedin.com/in/harsh-valecha)
+📫 How to reach me: [Website](https://harshvalecha-portfolio.vercel.app/) , [Linkedin](https://linkedin.com/in/harsh-valecha)
 
 
 ## 🌐 Socials:
