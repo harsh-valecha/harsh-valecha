@@ -78,8 +78,7 @@ Below are my public repositories — name · primary language · short descripti
 - [OrangeHRM](https://github.com/harsh-valecha/OrangeHRM) · Python · Tests for OrangeHRM demo
 - [Test_Automation_Framework](https://github.com/harsh-valecha/Test_Automation_Framework) · HTML · Web automation framework with pytest-html reporting
 - [pytest_cicd_automation1](https://github.com/harsh-valecha/pytest_cicd_automation1) · JavaScript · CI/CD automation examples
-- [temp](https://github.com/harsh-valecha/temp) · — · Temporary playground
-- [selenium_report_generation](https://github.com/harsh-valecha/selenium_report_generation) · HTML · CI/CD automation + report generation examples
+-  [selenium_report_generation](https://github.com/harsh-valecha/selenium_report_generation) · HTML · CI/CD automation + report generation examples
 - [Assignment-Round1-Solutions](https://github.com/harsh-valecha/Assignment-Round1-Solutions) · Python · Coding / assignment solutions
 
 ---
@@ -93,6 +92,3 @@ Extracted across my public repos (ordered by prominence):
 - Data & Libraries: pandas · numpy · openpyxl · configparser · pyspark
 - Other: Gradio, Ollama (experimenting), API testing patterns, automation framework design
 
----
-
-If you want further refinements (change wording, highlight specific projects, add star counts, or include additional badges), tell me and I will update and commit the change.
