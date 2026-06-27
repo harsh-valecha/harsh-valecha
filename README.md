@@ -1,43 +1,82 @@
-## Hi there , I am Harsh Valecha 👋
+# Harsh Valecha
 
-<!--
-**harsh-valecha/harsh-valecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-🔭 I’m currently working as Software Test Engineer <br>
-🌱 I’m currently learning playwright and Robot Framework<br>
-👯 I’m looking to collaborate on developing and testing automation frameworks<br>
-📫 How to reach me: [Website](https://harshvalecha-portfolio.vercel.app/) , [Linkedin](https://linkedin.com/in/harsh-valecha)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-valecha) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=flat&logo=pythonanywhere&logoColor=151515) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harsh-valecha&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harsh-valecha&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-valecha&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harsh-valecha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harsh-valecha&limit=5&theme=default&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harsh-valecha&theme=dark&hide_border=true&show_icons=true&count_private=false" alt="summary-stats"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=harsh-valecha&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 👋 About
+I’m Harsh Valecha — Software Test Engineer focused on automation, reliability engineering, and data-driven test solutions. I build maintainable automation frameworks, craft robust API & UI tests, and explore data & ML workflows.
 
+- 🔭 Currently: Test automation, Playwright & pytest, maintaining automation frameworks
+- 🌱 Learning: Advanced Playwright patterns, Robot Framework, and reliable test design
+- 📫 Connect: https://linkedin.com/in/harsh-valecha | Portfolio: https://harshvalecha-portfolio.vercel.app/
+
+---
+
+## 🔦 Activity (GitHub contribution map)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=harsh-valecha&theme=github-dark&area=true&hide_border=true" alt="activity-graph"/>
+</p>
+
+---
+
+## 🗂️ Public repositories
+Below are my public repositories — name · primary language · short description.
+
+- [architect_portfolio](https://github.com/harsh-valecha/architect_portfolio) · HTML · Portfolio site (architect)
+- [Assignment-Round1-Solutions](https://github.com/harsh-valecha/Assignment-Round1-Solutions) · Python · Coding / assignment solutions
+- [Behave_BDD_Practice](https://github.com/harsh-valecha/Behave_BDD_Practice) · HTML · BDD examples using behave & pytest
+- [CURA_HEALTHCARE_TEST_AUTOMATION](https://github.com/harsh-valecha/CURA_HEALTHCARE_TEST_AUTOMATION) · HTML · Automated testcases for CuraHealthcare webapp (pytest + selenium)
+- [datascience_python](https://github.com/harsh-valecha/datascience_python) · Python · Data science practice code
+- [data_analysis](https://github.com/harsh-valecha/data_analysis) · Jupyter Notebook · Data analysis practice notebooks
+- [Dynamic_calculator](https://github.com/harsh-valecha/Dynamic_calculator) · Python · Gradio-based calculator with Excel session reporting
+- [harsh-valecha](https://github.com/harsh-valecha/harsh-valecha) · — · Profile repository
+- [JS365](https://github.com/harsh-valecha/JS365) · JavaScript · JavaScript experiments
+- [js_practice](https://github.com/harsh-valecha/js_practice) · JavaScript · JS practice snippets
+- [LEARNPLAYWRIGHT2xBATCH](https://github.com/harsh-valecha/LEARNPLAYWRIGHT2xBATCH) · JavaScript · Playwright & TypeScript learning examples
+- [Library_management](https://github.com/harsh-valecha/Library_management) · Python · OOP concepts via a library management project
+- [Number_To_Word_API_Testing](https://github.com/harsh-valecha/Number_To_Word_API_Testing) · — · Postman collection for Number Conversion API
+- [ollama_automation](https://github.com/harsh-valecha/ollama_automation) · Python · Automation practice using ollama
+- [omnistore](https://github.com/harsh-valecha/omnistore) · Python · Headless E-Commerce Management System (Django)
+- [OpenCart-Test-Automation-with-Selenium-Pytest](https://github.com/harsh-valecha/OpenCart-Test-Automation-with-Selenium-Pytest) · HTML · Selenium + pytest automation scripts
+- [OrangeHRM](https://github.com/harsh-valecha/OrangeHRM) · Python · Tests for OrangeHRM demo
+- [Playwright_practice](https://github.com/harsh-valecha/Playwright_practice) · Python · Playwright & Python practice scripts
+- [playwright_pytest_automation](https://github.com/harsh-valecha/playwright_pytest_automation) · Python · Playwright + pytest automation framework demo
+- [plumbing_portfolio](https://github.com/harsh-valecha/plumbing_portfolio) · HTML · Portfolio site (plumbing)
+- [postman_practice](https://github.com/harsh-valecha/postman_practice) · HTML · Postman collections & examples
+- [PyATB4xLearning](https://github.com/harsh-valecha/PyATB4xLearning) · HTML · Python learning notes from PyATB4x
+- [pytest_cicd_automation1](https://github.com/harsh-valecha/pytest_cicd_automation1) · JavaScript · CI/CD automation examples
+- [pytest_playwright_automation_framework](https://github.com/harsh-valecha/pytest_playwright_automation_framework) · Python · Playwright + pytest framework
+- [python_automation_learning](https://github.com/harsh-valecha/python_automation_learning) · Python · General Python automation learning
+- [python_data_analysis_tools](https://github.com/harsh-valecha/python_data_analysis_tools) · Jupyter Notebook · Examples: openpyxl, configparser, pandas, requests, pyspark
+- [Python_Interview_Problems](https://github.com/harsh-valecha/Python_Interview_Problems) · Python · Collection of Python interview problems
+- [python_selenium_practice](https://github.com/harsh-valecha/python_selenium_practice) · HTML · Selenium practice sessions
+- [restful-booker-api-testing](https://github.com/harsh-valecha/restful-booker-api-testing) · HTML · RESTful Booker API automation (pytest + requests)
+- [Restful_booker_automation](https://github.com/harsh-valecha/Restful_booker_automation) · JavaScript · Restful Booker API automation (JS)
+- [saucedemo_playwright_automation](https://github.com/harsh-valecha/saucedemo_playwright_automation) · Python · Playwright automation for SauceDemo
+- [selenium_multitab_pytest](https://github.com/harsh-valecha/selenium_multitab_pytest) · Python · Selenium multi-tab pytest examples
+- [selenium_practice](https://github.com/harsh-valecha/selenium_practice) · HTML · Selenium practice repo
+- [selenium_report_generation](https://github.com/harsh-valecha/selenium_report_generation) · HTML · CI/CD automation + report generation examples
+- [SQL_Projects](https://github.com/harsh-valecha/SQL_Projects) · — · SQL learning projects
+- [temp](https://github.com/harsh-valecha/temp) · — · Temporary playground
+- [testcase_documentation_generator](https://github.com/harsh-valecha/testcase_documentation_generator) · Python · Tool to generate test case documentation
+- [Testing_Framework_Selenium_Pytest](https://github.com/harsh-valecha/Testing_Framework_Selenium_Pytest) · Python · Selenium + pytest boilerplate framework
+- [Test_Automation_Framework](https://github.com/harsh-valecha/Test_Automation_Framework) · HTML · Web automation framework with pytest-html reporting
+
+---
+
+## 🛠️ Skills & Domains
+Extracted across my public repos (ordered by prominence):
+
+- Languages: Python · JavaScript · HTML/CSS · SQL · Jupyter Notebooks
+- Frameworks & Tools: Playwright · pytest · Selenium · Django · Behave (BDD) · Robot Framework (learning)
+- Dev & Testing: Postman · requests · pytest-html · CI/CD pipelines · Git
+- Data & Libraries: pandas · numpy · openpyxl · configparser · pyspark
+- Other: Gradio, Ollama (experimenting), API testing patterns, automation framework design
+
+---
+
+If you want further refinements (change wording, highlight specific projects, add star counts, or include additional badges), tell me and I will update and commit the change.
