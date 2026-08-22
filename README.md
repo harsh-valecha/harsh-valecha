@@ -53,8 +53,9 @@ Learning mindset    →  Keep experimenting with better tools
 - API testing
 - UI / E2E testing
 - Data-driven testing
-- Test reporting
+- Test reporting (Allure,HTML,CSV,Excel)
 - BDD / Behave
+- Vitest
 
 </td>
 <td width="50%" valign="top">
